@@ -1,0 +1,29 @@
+button {
+	height: 100px;
+	display: block;
+}
+
+#btn1 {
+	/*position: absolute;*/
+	
+	background-color: #6BC6C6;
+
+	
+}
+#btn2, hr {
+	
+	
+	background-color: #D19898;
+	margin-top: 10px;
+	
+
+}
+
+#dontHover {
+	font-size: 150px;
+	border: 10px solid black;
+	padding: 0;
+	margin: 0;
+	display:inline-block;
+
+}
